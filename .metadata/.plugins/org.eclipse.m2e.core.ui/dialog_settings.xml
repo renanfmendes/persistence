@@ -2,14 +2,19 @@
 <section name="Workbench">
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="Exercicio_ChaveComposta"/>
+			<item value="04_SpringJPA"/>
 			<item value="02_ConceitosJPA"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Exercicio_ChaveComposta"/>
+			<item value="04_SpringJPA"/>
 			<item value="02_ConceitosJPA"/>
 		</list>
 		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
 			<item value="1.0.0"/>
 		</list>
 	</section>
